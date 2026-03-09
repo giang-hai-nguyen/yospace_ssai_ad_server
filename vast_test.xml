@@ -23,7 +23,7 @@
             </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="500" scalable="true" maintainAspectRatio="true">
-                <![CDATA[https://commondatastorage.googleapis.com]]>
+                <![CDATA[https://github.com/giang-hai-nguyen/yospace_ssai_ad_server/blob/main/video_ad.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
