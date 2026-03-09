@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="test_image_ad">
+    <InLine>
+      <AdSystem>GitHub Ad Server</AdSystem>
+      <AdTitle>Test Image Banner</AdTitle>
+      <Description>Quảng cáo hình ảnh tĩnh từ GitHub Pages</Description>
+      <Impression><![CDATA[https://giang-hai-nguyen.github.io]]></Impression>
+      <Creatives>
+        <Creative id="creative_image_123">
+          <NonLinearAds>
+            <NonLinear width="300" height="250" id="nonlinear_1">
+              <StaticResource creativeType="image/png">
+                <![CDATA[https://giang-hai-nguyen.github.io/yospace_ssai_ad_server/overlay_ad_2.png]]>
+              </StaticResource>
+              <NonLinearClickThrough>
+                <![CDATA[https://github.com]]>
+              </NonLinearClickThrough>
+            </NonLinear>
+          </NonLinearAds>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
