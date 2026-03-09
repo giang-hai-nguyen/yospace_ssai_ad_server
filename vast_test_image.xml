@@ -9,7 +9,7 @@
       <Creatives>
         <Creative id="creative_image_123">
           <NonLinearAds>
-            <NonLinear width="500" height="150" id="nonlinear_1">
+            <NonLinear width="500" height="150" id="nonlinear_1" minSuggestedDuration="00:00:15">
               <StaticResource creativeType="image/png">
                 <![CDATA[https://giang-hai-nguyen.github.io/yospace_ssai_ad_server/overlay_ad_2.png]]>
               </StaticResource>
